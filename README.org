@@ -1,6 +1,6 @@
 * Project Overview
 
-This repository is supposed to server as an overview over current & past projects of mine.
+This repository is supposed to serve as an overview for current & past projects of mine.
 
 I have not yet uploaded much, so this repo is still very much a work-in-progress, but will be expanded on as time progresses.
 
