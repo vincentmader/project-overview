@@ -1,0 +1,12 @@
+* Project Overview
+
+*** Physics
+- [[https://github.com/vincentmader/double-pendulum.py][Integration of the equations of motion for a double-pendulum (RK4)]]
+*** Mathematics
+- [[https://github.com/vincentmader/random-walk_live-plot.py][2D random walk visualization in matplotlib-liveplot]]
+- [[https://github.com/vincentmader/gaussian-dice-throws_live-plot.py][Visualization of Gaussian distribution emerging from sum of dice]]
+*** Web Development
+- [[https://github.com/vincentmader/docker-reverse-proxy][Reverse-proxy server implemented with Docker]]
+*** University
+- [[https://github.com/vincentmader/bsc-thesis][B.Sc. thesis: "Gas accretion onto eccentric planets"]]
+- [[https://github.com/vincentmader/msc-thesis][M.Sc. thesis: "Computational cost optimization for numerical integration of Smoluchowski coagulation equations"]]
