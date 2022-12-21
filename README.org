@@ -1,5 +1,9 @@
 * Project Overview
 
+This repository is supposed to server as an overview over current & past projects of mine.
+
+I have not yet uploaded much, so this repo is still very much a work-in-progress, but will be expanded on as time progresses.
+
 *** Physics
 - [[https://github.com/vincentmader/double-pendulum.py][Integration of the equations of motion for a double-pendulum (RK4)]]
 *** Mathematics
@@ -7,6 +11,8 @@
 - [[https://github.com/vincentmader/gaussian-dice-throws_live-plot.py][Visualization of Gaussian distribution emerging from sum of dice]]
 *** Web Development
 - [[https://github.com/vincentmader/docker-reverse-proxy][Reverse-proxy server implemented with Docker]]
+*** Machine Learning & Neural Networks
+- ...
 *** University
 - [[https://github.com/vincentmader/bsc-thesis][B.Sc. thesis: "Gas accretion onto eccentric planets"]]
 - [[https://github.com/vincentmader/msc-thesis][M.Sc. thesis: "Computational cost optimization for numerical integration of the Smoluchowski coagulation equations via stochastic kernel sampling"]]
