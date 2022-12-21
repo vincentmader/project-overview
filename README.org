@@ -9,4 +9,4 @@
 - [[https://github.com/vincentmader/docker-reverse-proxy][Reverse-proxy server implemented with Docker]]
 *** University
 - [[https://github.com/vincentmader/bsc-thesis][B.Sc. thesis: "Gas accretion onto eccentric planets"]]
-- [[https://github.com/vincentmader/msc-thesis][M.Sc. thesis: "Computational cost optimization for numerical integration of Smoluchowski coagulation equations"]]
+- [[https://github.com/vincentmader/msc-thesis][M.Sc. thesis: "Computational cost optimization for numerical integration of the Smoluchowski coagulation equations via stochastic kernel sampling"]]
