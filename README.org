@@ -19,7 +19,7 @@ I have not yet uploaded much, so this repo is still very much a work-in-progress
 - [[https://github.com/vincentmader/bsc-thesis][B.Sc. thesis: "Gas accretion onto eccentric planets"]]
 - [[https://github.com/vincentmader/msc-thesis][M.Sc. thesis: "Computational cost optimization for numerical integration of the Smoluchowski coagulation equations via stochastic kernel sampling"]]
 *** Games
-- [[https://github.com/vincentmader/arithmetic-math-game][Arithmetic CLI game]]
+- [[https://github.com/vincentmader/arithmetic-math-game][CLI game for exercising simple arithmetics]]
 - [[https://github.com/vincentmader/enten-simulator-2022][Enten-Simulator 2022]]
 *** Configuration
 - [[https://github.com/vincentmader/config-dotfiles][Personal configuration files]]
