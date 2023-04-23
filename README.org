@@ -34,3 +34,4 @@ I have not yet uploaded much, so this repo is still very much a work-in-progress
 - [[https://github.com/vincentmader/sleep-cycle-visualization][Sleep analysis & visualization for SleepCycle exports]]
 - [[https://github.com/vincentmader/colored-echo.sh][Colored `echo` output]]
 - [[https://github.com/vincentmader/auto-rice-scripts][Auto-rice scripts for automatic computer setup]]
+- [[https://github.com/vincentmader/microphone-input-visualization][Live visualization of computer microphone input.]]
