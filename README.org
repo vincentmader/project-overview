@@ -6,31 +6,31 @@ I have not yet uploaded much, so this repo is still very much a work-in-progress
 
 *** Mathematics & Computational Physics
 - [[https://github.com/vincentmader/double-pendulum.py][Integration of the equations of motion for a double-pendulum (RK4)]]
-- [[https://github.com/vincentmader/orbit-precalculations][Visualization of satellite orbit pre-calculations]]
-- [[https://github.com/vincentmader/taylor-series-visualization][Visualization of Taylor series convergence]]
-- [[https://github.com/vincentmader/random-walk_live-plot.py][2D random walk visualization in matplotlib-liveplot]]
-- [[https://github.com/vincentmader/gaussian-dice-throws_live-plot.py][Visualization of Gaussian distribution emerging from sum of dice]]
-- [[https://github.com/vincentmader/cannonball-trajectories][Visualization of cannonball trajectories]]
+- [[https://github.com/vincentmader/orbit-precalculations][Interactive visualization of satellite orbit pre-calculations]]
+- [[https://github.com/vincentmader/taylor-series-visualization][Interactive visualization of Taylor series convergence]]
+- [[https://github.com/vincentmader/random-walk_live-plot.py][Visualization of random-walk in 2D using a matplotlib-liveplot]]
+- [[https://github.com/vincentmader/gaussian-dice-throws_live-plot.py][Interactive visualization of Gaussian distribution emerging from sum of dice]]
+- [[https://github.com/vincentmader/cannonball-trajectories][Interactive visualization of paraboloid cannonball trajectories]]
 *** Web Development
 - [[https://github.com/vincentmader/docker-reverse-proxy][Docker-virtualized HTTPS reverse-proxy server]]
 *** Text Analysis
-- [[https://github.com/vincentmader/tf-idf.rs][Term-Frequency-Inverse-Document-Frequency utility]]
+- [[https://github.com/vincentmader/tf-idf.rs][Term-Frequency-Inverse-Document-Frequency utility program]]
 *** University
 - [[https://github.com/vincentmader/bsc-thesis][B.Sc. thesis: "Gas accretion onto eccentric planets"]]
-- [[https://github.com/vincentmader/msc-thesis][M.Sc. thesis: "Computational cost optimization for numerical integration of the Smoluchowski coagulation equations via stochastic kernel sampling"]]
+- [[https://github.com/vincentmader/msc-thesis][M.Sc. thesis: "Computational cost optimization for numerical integration of the Smoluchovski coagulation equations via stochastic kernel sampling"]]
 *** Games
 - [[https://github.com/vincentmader/arithmetic-math-game][CLI game for exercising simple arithmetics]]
-- [[https://github.com/vincentmader/enten-simulator-2022][Enten-Simulator 2022]]
-- [[https://github.com/vincentmader/lager-simulator-2023][Lager-Simulator 2023]]
+- [[https://github.com/vincentmader/enten-simulator-2022][Enten-Simulator 2022 (very basic "game engine" in PyGame)]]
+- [[https://github.com/vincentmader/lager-simulator-2023][Lager-Simulator 2023 (game engine in JS)]]
 *** Configuration
 - [[https://github.com/vincentmader/config-dotfiles][Personal configuration files]]
 - [[https://github.com/vincentmader/doom-emacs-conf][Doom Emacs configuration files]]
 - [[https://github.com/vincentmader/neovim-config.lua][Neovim configuration files (written in Lua)]]
-- [[https://github.com/vincentmader/mpl-styles][Matplotlib styles]]
-- [[https://github.com/vincentmader/tex-headers][Org/LaTeX headers]]
 - [[https://github.com/vincentmader/st][Suckless terminal configuration]]
 - [[https://github.com/vincentmader/dmenu][Suckless dmenu configuration]]
 - [[https://github.com/vincentmader/dwm][Suckless dwm configuration]]
+- [[https://github.com/vincentmader/mpl-styles][Matplotlib styles]]
+- [[https://github.com/vincentmader/tex-headers][Org-LaTeX headers]]
 *** Various
 - [[https://github.com/vincentmader/doom-emacs-installer][Doom Emacs installer]]
 - [[https://github.com/vincentmader/sleep-cycle-visualization][Sleep analysis & visualization for SleepCycle exports]]
