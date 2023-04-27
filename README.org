@@ -4,15 +4,15 @@ This repository is supposed to serve as an overview for current & past projects 
 
 I have not yet uploaded much, so this repo is still very much a work-in-progress, but will be expanded on as time progresses.
 
-*** Physics
+*** Mathematics & Computational Physics
 - [[https://github.com/vincentmader/double-pendulum.py][Integration of the equations of motion for a double-pendulum (RK4)]]
-*** Mathematics
+- [[https://github.com/vincentmader/cannonball-trajectories][Visualization of cannonball trajectories]]
+- [[https://github.com/vincentmader/cannonball-trajectories][Visualization of satellite orbit pre-calculations]]
+- [[https://github.com/vincentmader/taylor-series-visualization][Visualization of Taylor series convergence]]
 - [[https://github.com/vincentmader/random-walk_live-plot.py][2D random walk visualization in matplotlib-liveplot]]
 - [[https://github.com/vincentmader/gaussian-dice-throws_live-plot.py][Visualization of Gaussian distribution emerging from sum of dice]]
 *** Web Development
-- [[https://github.com/vincentmader/docker-reverse-proxy][Reverse-proxy server implemented with Docker]]
-*** Machine Learning & Neural Networks
-- ...
+- [[https://github.com/vincentmader/docker-reverse-proxy][Docker-virtualized HTTPS reverse-proxy server]]
 *** Text Analysis
 - [[https://github.com/vincentmader/tf-idf.rs][Term-Frequency-Inverse-Document-Frequency utility]]
 *** University
@@ -21,9 +21,11 @@ I have not yet uploaded much, so this repo is still very much a work-in-progress
 *** Games
 - [[https://github.com/vincentmader/arithmetic-math-game][CLI game for exercising simple arithmetics]]
 - [[https://github.com/vincentmader/enten-simulator-2022][Enten-Simulator 2022]]
+- [[https://github.com/vincentmader/lager-simulator-2023][Lager-Simulator 2023]]
 *** Configuration
 - [[https://github.com/vincentmader/config-dotfiles][Personal configuration files]]
 - [[https://github.com/vincentmader/doom-emacs-conf][Doom Emacs configuration files]]
+- [[https://github.com/vincentmader/neovim-config.lua][Neovim configuration files (written in Lua)]]
 - [[https://github.com/vincentmader/mpl-styles][Matplotlib styles]]
 - [[https://github.com/vincentmader/tex-headers][Org/LaTeX headers]]
 - [[https://github.com/vincentmader/st][Suckless terminal configuration]]
