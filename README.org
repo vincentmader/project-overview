@@ -31,9 +31,12 @@ I have not yet uploaded much, so this repo is still very much a work-in-progress
 - [[https://github.com/vincentmader/dwm][Suckless dwm configuration]]
 - [[https://github.com/vincentmader/mpl-styles][Matplotlib styles]]
 - [[https://github.com/vincentmader/tex-headers][Org-LaTeX headers]]
-*** Various
-- [[https://github.com/vincentmader/doom-emacs-installer][Doom Emacs installer]]
-- [[https://github.com/vincentmader/sleep-cycle-visualization][Sleep analysis & visualization for SleepCycle exports]]
-- [[https://github.com/vincentmader/colored-echo.sh][Colored `echo` output]]
+*** Installers
 - [[https://github.com/vincentmader/auto-rice-scripts][Auto-rice scripts for automatic computer setup]]
+- [[https://github.com/vincentmader/doom-emacs-installer][Doom Emacs installer]]
+*** Utilities
+- [[https://github.com/vincentmader/colored-echo.sh][Colored `echo` output]]
+- [[https://github.com/vincentmader/port-process-kill-utility][CLI utility script for killing processes running on specified port]]
+*** Various
 - [[https://github.com/vincentmader/microphone-input-visualization][Live visualization of computer microphone input.]]
+- [[https://github.com/vincentmader/sleep-cycle-visualization][Sleep analysis & visualization for SleepCycle exports]]
