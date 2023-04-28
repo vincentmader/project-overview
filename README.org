@@ -13,6 +13,8 @@ I have not yet uploaded much, so this repo is still very much a work-in-progress
 - [[https://github.com/vincentmader/cannonball-trajectories][Interactive visualization of paraboloid cannonball trajectories]]
 *** Web Development
 - [[https://github.com/vincentmader/docker-reverse-proxy][Docker-virtualized HTTPS reverse-proxy server]]
+- [[https://github.com/vincentmader/v1.mader.xyz][v1 of my personal website (Python Flask + JavaScript)]] $\to$ ([[https://v1.mader.xyz][v1.mader.xyz]])
+- [[https://github.com/vincentmader/v2.mader.xyz][v2 of my personal website (Rust + Web Assembly)]] $\to$ ([[https://v2.mader.xyz][v2.mader.xyz]])
 *** Text Analysis
 - [[https://github.com/vincentmader/tf-idf.rs][Term-Frequency-Inverse-Document-Frequency utility program]]
 *** University
