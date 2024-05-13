@@ -52,3 +52,5 @@ I have not yet uploaded much, so this repo is still very much a work-in-progress
 *** Various
 - [[https://github.com/vincentmader/microphone-input-visualization][Live visualization of computer microphone input.]]
 - [[https://github.com/vincentmader/sleep-cycle-visualization][Sleep analysis & visualization for SleepCycle exports]]
+- [[https://github.com/vincentmader/curriculum-vitae-2020][Curriculum Vitae (v1 from 2020)]]
+- [[https://github.com/vincentmader/curriculum-vitae-2024][Curriculum Vitae (v2 from 2024)]]
